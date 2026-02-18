@@ -34,13 +34,13 @@ const breadcrumbs: BreadcrumbItem[] = [
                 <p class="mt-3 text-slate-600 dark:text-slate-400">
                     Has ingresado correctamente al sistema de 
                     <span class="font-semibold text-indigo-600">
-                        Gestión de Control Universitario
+                        Gestión de Panaderías
                     </span>.
                 </p>
 
                 <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">
-                    Desde aquí podrás administrar estudiantes, docentes,
-                    matrículas y procesos académicos de manera segura y eficiente.
+                    Desde aquí podrás administrar productos, proveedores y facturación de manera segura y eficiente.
+
                 </p>
 
             </div>

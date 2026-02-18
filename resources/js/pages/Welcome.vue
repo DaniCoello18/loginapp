@@ -16,7 +16,7 @@ import AppLogoIcon from '@/components/AppLogoIcon.vue'
                 <div class="flex items-center gap-3">
                     <AppLogoIcon class="h-10 w-auto text-indigo-600" />
                     <span class="text-xl font-semibold text-slate-800">
-                        Gestión de Control Universitario
+                        Gestión de Control de Panaderias
                     </span>
                 </div>
 
@@ -49,16 +49,15 @@ import AppLogoIcon from '@/components/AppLogoIcon.vue'
                     <h1 class="text-4xl md:text-5xl font-bold text-slate-800 leading-tight">
                         Plataforma Integral para la
                         <span class="text-indigo-600">
-                            Gestión Académica Universitaria
+                            Gestión de Panaderías
                         </span>
                     </h1>
 
                     <p class="text-slate-600 text-lg">
-                        Sistema diseñado para optimizar el control académico,
-                        la administración de estudiantes, docentes y procesos
-                        institucionales. Mejora la eficiencia institucional,
+                        Sistema diseñado para optimizar el control de panaderias, facilitando
+                        la administración de productos, proveedores y facturacion. Mejora la eficiencia administrativa,
                         fortalece la trazabilidad y garantiza seguridad en la
-                        gestión universitaria.
+                        gestión de panaderías.
                     </p>
 
                     <div class="flex gap-4">

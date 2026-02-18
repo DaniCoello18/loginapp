@@ -26,40 +26,11 @@ const mainNavItems: NavItem[] = [
         icon: LayoutGrid,
     },
     {
-        title: 'Alumnos',
+        title: 'Inventario',
         href: '/alumnos',
         icon: GraduationCap,
     },
-    {
-        title: 'Especialidades',
-        href: '/especialidades',
-        icon: GraduationCap,
-    },
-    {
-        title: 'Profesores',
-        href: '/profesores',
-        icon: GraduationCap,
-    },
-    {
-        title: 'Materias',
-        href: '/materias',
-        icon: BookOpen,
-    },
-    {
-        title: 'Edificios',
-        href: '/edificios',
-        icon: Building2,
-    },
-    {
-        title: 'Horarios',
-        href: '/horarios',
-        icon: Clock,
-    },
-    {
-        title: 'Matrículas',
-        href: '/matriculas',
-        icon: ClipboardList,
-    },
+
 ];
 
 const footerNavItems: NavItem[] = [
